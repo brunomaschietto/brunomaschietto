@@ -1,6 +1,6 @@
 <div>
   <h1>Hey there! Welcome</h1>
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, <strong>my name is Bruno Maschietto! I'm a Web Developer.</strong>
+  <strong>My name is Bruno Maschietto! I'm a Web Developer.</strong>
 </div>
 
 ##
