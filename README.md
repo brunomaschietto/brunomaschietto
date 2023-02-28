@@ -8,6 +8,7 @@
 - :mortar_board: Full-Stack Developer in progress.
 - 🌱 Learning TypeScript at Back-End's projects
 - E-mail me: bruno4_10@hotmail.com
+- Check my projects at my website <a href="https://brunomaschietto-portfolio.surge.sh/" target="_blank"></a>
 <div>
     <a href="https://www.linkedin.com/in/bruno-maschietto/" target="_blank"><img height="30" width ="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/brunomaschietto/" target="_blank"><img height="30" width ="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
