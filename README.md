@@ -5,7 +5,7 @@
 
 ##
 
-- :mortar_board: Full-Stack Developer in progress.
+- :mortar_board: Full-Stack Developer.
 - 🌱 Learning TypeScript at Back-End's projects
 - E-mail me: bruno4_10@hotmail.com
 - Check my projects at my <a href="https://bruno-maschietto-portfolio.vercel.app/" target="_blank">website</a>
